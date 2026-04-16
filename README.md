@@ -1,18 +1,55 @@
-## Getting Started
+# 🧮 Calculadora Básica em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Projeto desenvolvido para praticar conceitos fundamentais de programação em Java, como estrutura de classes, métodos e operações matemáticas.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## ⚙️ Funcionalidades
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+* Soma
+* Subtração
+* Multiplicação
+* Divisão
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🛠️ Tecnologias
 
-## Dependency Management
+* Java
+* VS Code
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## ▶️ Como executar
+
+```bash
+git clone https://github.com/seu-usuario/calculadora-basica-java.git
+cd calculadora-basica-java
+javac src/*.java
+java src.App
+```
+
+---
+
+## 📚 Aprendizados
+
+* Estrutura de classes
+* Separação de responsabilidades (App vs Calculadora)
+* Reutilização de código com métodos
+* Lógica de programação
+
+---
+
+## 🚀 Próximos passos
+
+* Adicionar interface gráfica (GUI)
+* Implementar tratamento de erros (ex: divisão por zero)
+* Melhorar a interação com o usuário
+
+---
+
+## 👨‍💻 Autor
+
+**Max Godoy**
+Estudante de Desenvolvimento de Software Multiplataforma | FATEC
+
