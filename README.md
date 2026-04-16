@@ -50,6 +50,6 @@ java src.App
 
 ## 👨‍💻 Autor
 
-**Max Godoy**
-Estudante de Desenvolvimento de Software Multiplataforma | FATEC
+* **Max Godoy**
+* Estudante de Desenvolvimento de Software Multiplataforma | FATEC
 
